@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<script src="jquery.js"></script>
+		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+		<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+		<script src="main.js"></script>
+		<script src="polifile"></script>
+		<link rel="stylesheet" href="main.css" />
+		<script type="text/javascript"' src="modernizr.js"></script>
+	</head>
+	<body>
+		 <div id="map"></div>
+	</body>
+
+</html>
